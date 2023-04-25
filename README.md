@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aloysiusng
 - 👀 I’m interested in Software engineering
-- 📫 How to reach me : aloysius.ng.2020@scis.smu.edu.sg
+- 📫 How to reach me : aloysiusng5@gmail.com
 
 <!---
 aloysiusng/aloysiusng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
